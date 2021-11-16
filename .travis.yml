@@ -1,4 +1,1 @@
 language: python
-
-script: 
-  - test_ejemplo
