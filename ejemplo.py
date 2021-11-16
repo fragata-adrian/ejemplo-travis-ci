@@ -11,4 +11,7 @@ def dividir(a, b):
     return a / b
 
 def dividirSinResto(a, b):
-    return a % b
+    return a // b
+
+
+print(dividirSinResto(5, 2))
