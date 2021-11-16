@@ -17,6 +17,3 @@ class TestEjemplo(unittest.TestCase):
 
     def test_dividirSinResto(self):
         self.assertEqual(dividirSinResto(5, 2), 2)
-
-if __name__ == "__main__":
-    unittest.main()
