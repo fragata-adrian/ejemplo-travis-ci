@@ -15,3 +15,4 @@ def dividirSinResto(a, b):
 
 
 print(dividirSinResto(5, 2))
+#print(sumar(5, 2))
