@@ -13,4 +13,4 @@ def test_dividir():
     assert dividir(5, 2) == 2.5
 
 def test_dividirSinResto():
-    assert dividirSinResto(5, 2) == 2
+    assert dividirSinResto(5, 2) == "df"
